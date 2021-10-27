@@ -53,7 +53,7 @@
 49.
 50.
 51. Desenvolva um programa que leia o primeiro termo e a razão de uma PA(Progressão Aritmética). No final, mostra os 10             primeiros termos dessa progressão.
-52.
+52. Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
 53.
 54.
 55.

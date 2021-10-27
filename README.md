@@ -52,7 +52,7 @@
 48.
 49.
 50.
-51.
+51. Desenvolva um programa que leia o primeiro termo e a razão de uma PA(Progressão Aritmética). No final, mostra os 10             primeiros termos dessa progressão.
 52.
 53.
 54.
